@@ -1,5 +1,7 @@
 version: v1
-name: buf.build/bufbuild/eliza
+name: buf.build/ashar340/buf-protos
+deps:
+  - buf.build/googleapis/googleapis
 lint:
   use:
     - DEFAULT
